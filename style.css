@@ -42,7 +42,7 @@ nav{
 
 
 .banner{
-    background: url(./assets/hero-bg.png);
+    background: url('./assets/hero-bg.png');
     background-size: cover;
     background-position: center;
     height: 674px;
